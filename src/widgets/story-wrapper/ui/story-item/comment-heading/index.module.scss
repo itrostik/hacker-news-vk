@@ -1,0 +1,23 @@
+.title {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.block {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.count {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
